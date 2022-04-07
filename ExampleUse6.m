@@ -1,4 +1,4 @@
-%% data values for Target 6
+%% data values for Example 6
 nchromosomes=128; % number of chromosomes (must be 4 factor)
 nkeep=64;   % number of keeped chromosomes
 rhov=0.1; % homogenized volumic density target

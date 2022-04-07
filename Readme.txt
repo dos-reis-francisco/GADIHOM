@@ -12,7 +12,7 @@ The code is composed with modules :
 6. Fcost.m : cost function for the genetic algorithm
 7. mechanic_moduli.m : extract mechanic moduli from homogenized compliance tensor 
 How to use 
-*  modify the data values in a targeti.m code to call the main function GADIHOM(…)
+*  modify the data values in a ExampleUsei.m code to call the main function GADIHOM(…)
 
 * Run 
 * Results are stored in various csv file :
