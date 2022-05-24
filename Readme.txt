@@ -1,4 +1,10 @@
 How to use MATLAB Version of GADIHOM
+====================================
+(This code is provided freely, but if you use it, please cite publication linked with this code : "F. Dos Reis and N. Karathanasopoulos, Inverse metamaterial design
+combining genetic algorithms with asymptotic homogenization schemes. International Journal of
+Solids and Structures (2022), doi: https://doi.org/10.1016/j.ijsolstr.2022.111702.")
+)
+
 DOS REIS F. 
 04.04.2022
 Introduction
